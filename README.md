@@ -1,2 +1,2 @@
 # Landing-page-
-landing page learn from shryan code 
+My 2 Learning Project Landing page
